@@ -2,6 +2,6 @@
   "todos": [
     {"id": 0, "text": "belajar redux", "completed": false},
     {"id": 1, "text": "belajar persist", "completed": false},
-    {"id": 2, "text": "belajar next.js", "completed": false},
+    {"id": 2, "text": "belajar next.js", "completed": false}
   ]
 }
